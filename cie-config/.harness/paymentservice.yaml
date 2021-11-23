@@ -55,7 +55,7 @@ pipeline:
                                     repo: nikpap/payment-service
                                     tags:
                                         - malo87-latest
-                                    dockerfile: /payment-service/Dockerfile
+                                    dockerfile: /harness/payment-service/Dockerfile
                                     optimize: true
                                     resources:
                                         limits:
